@@ -8,7 +8,8 @@ that allow users to quickly and easily make good looking plots. So say good-bye
 to matplotlib, and hello to ggplot as your everyday Python plotting library!
 
 # Outline
-## Intro
+## Slides (20 mins)
+### Intro
 #### Me
 - Hi, I'm Greg!
 #### What is `ggplot`?
@@ -20,7 +21,8 @@ to matplotlib, and hello to ggplot as your everyday Python plotting library!
 #### Where it's going
 - things that don't exist yet
 
-## Tutorial
+## IPython Notebook (40-50 mins)
+### Tutorial
 #### `aesthetics`
 - assigning `x` and `y`
 #### components
