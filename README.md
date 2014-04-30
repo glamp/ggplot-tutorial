@@ -7,6 +7,9 @@ is a port of the popular R package ggplot2. It provides a high level grammar
 that allow users to quickly and easily make good looking plots. So say good-bye 
 to matplotlib, and hello to ggplot as your everyday Python plotting library!
 
+# Data
+- [https://github.com/slnovak/mlb_terminal](https://github.com/slnovak/mlb_terminal)
+
 # Outline
 ## Slides (20 mins)
 ### Intro
