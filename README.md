@@ -14,6 +14,11 @@ to matplotlib, and hello to ggplot as your everyday Python plotting library!
 # Outline
 ## Slides (20 mins)
 ## IPython Notebook (40-50 mins)
+Runing the notebooks
+```bash
+$ ipython notebook notebooks/ --pylab inline
+```
+
 ## Final Thoughts
 #### Where it's going
 #### Want to help?
