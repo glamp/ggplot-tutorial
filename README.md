@@ -22,6 +22,7 @@ Runing the notebooks
 ```bash
 $ ipython notebook notebooks/ --pylab inline
 ```
+*I make no guarantees*
 
 ### Final Thoughts
 #### Where it's going
