@@ -1,4 +1,6 @@
-# CFP
+# ggplot for python
+
+## CFP
 Making basic, good-looking plots in Python is tough. Matplotlib gives you great
 control, but at the expense of being very detailed. The rise of pandas has made
 Python the go-to language for data wrangling and munging but many people are 
@@ -7,18 +9,20 @@ is a port of the popular R package ggplot2. It provides a high level grammar
 that allow users to quickly and easily make good looking plots. So say good-bye 
 to matplotlib, and hello to ggplot as your everyday Python plotting library!
 
-# Data
+## The Talk
+
+### Data
 - [https://github.com/slnovak/mlb_terminal](https://github.com/slnovak/mlb_terminal)
 - [baseball-pitches-clean.csv](https://s3.amazonaws.com/yhat-examples/baseball-pitches-clean.csv)
 
-# Outline
-## Slides (20 mins)
-## IPython Notebook (40-50 mins)
+### Outline
+#### Slides (20 mins)
+#### IPython Notebook (40-50 mins)
 Runing the notebooks
 ```bash
 $ ipython notebook notebooks/ --pylab inline
 ```
 
-## Final Thoughts
+### Final Thoughts
 #### Where it's going
 #### Want to help?
