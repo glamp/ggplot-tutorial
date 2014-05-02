@@ -9,6 +9,7 @@ to matplotlib, and hello to ggplot as your everyday Python plotting library!
 
 # Data
 - [https://github.com/slnovak/mlb_terminal](https://github.com/slnovak/mlb_terminal)
+- [baseball-pitches-clean.csv](https://s3.amazonaws.com/yhat-examples/baseball-pitches-clean.csv)
 
 # Outline
 ## Slides (20 mins)
