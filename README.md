@@ -12,30 +12,7 @@ to matplotlib, and hello to ggplot as your everyday Python plotting library!
 
 # Outline
 ## Slides (20 mins)
-### Intro
-#### Me
-- Hi, I'm Greg!
-#### What is `ggplot`?
-- "gee gee plot"
-#### Why does it exist?
-- b/c `matplotlib` sucks
-#### Where it is now
-- state of the project
-#### Where it's going
-- things that don't exist yet
-
 ## IPython Notebook (40-50 mins)
-### Tutorial
-#### `aesthetics`
-- assigning `x` and `y`
-#### components
-- `geoms`, `stats`, `scales`
-#### layers
-- combining `geoms`
-#### `geom_point`
-#### `geom_line`
-#### `stat_smooth`
-#### Disecting a problem
-
 ## Final Thoughts
+#### Where it's going
 #### Want to help?
