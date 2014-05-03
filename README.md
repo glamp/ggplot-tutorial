@@ -17,6 +17,7 @@ to matplotlib, and hello to ggplot as your everyday Python plotting library!
 
 ### Outline
 #### Slides (20 mins)
+http://www.slideshare.net/Yhat/ggplot-for-python
 #### IPython Notebook (40-50 mins) *Safety not guaranteed*
 Runing the notebooks
 ```bash
