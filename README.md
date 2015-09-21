@@ -1,5 +1,4 @@
 # ggplot for python
-
 ## CFP
 Making basic, good-looking plots in Python is tough. Matplotlib gives you great
 control, but at the expense of being very detailed. The rise of pandas has made
